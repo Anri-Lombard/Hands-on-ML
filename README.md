@@ -4,9 +4,9 @@ This repository is dedicated to documenting my learning journey through the book
 
 ## Repository Structure
 
-The repository is organized into separate folders for each chapter of the book, with a brief description of the chapter's content. Each folder contains the relevant code, notes, and supplementary materials for that chapter.
+The repository is organized into separate notebooks for each chapter of the book, with a brief description of the chapter's content. Each folder contains the relevant code and notes for that chapter.
 
-- Chapter01_Introduction
+- [Chapter01_Introduction](./Part%201/01_the_machine_learning_landscape.ipynb)
 - Chapter02_End_to_End_ML_Project
 - Chapter03_Classification
 - Chapter04_Training_Models
